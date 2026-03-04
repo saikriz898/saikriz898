@@ -1,149 +1,159 @@
-<h1 align="center">Hi 👋, I'm Sai Krishnan</h1>
+<!-- PROFILE HEADER -->
+
+<h1 align="center">Sai Krishnan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Engineering+Student;Full+Stack+Developer+in+Progress;Flutter+App+Developer;DSA+Learner+using+Java;Future+Software+Engineer&center=true&width=500&height=45">
+Computer Science Engineering Student
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=550&lines=Aspiring+Software+Developer;Learning+Full+Stack+Development;Flutter+Mobile+App+Developer;Practicing+DSA+with+Java">
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-I’m a Computer Science Engineering student who is passionate about building real-world software systems and continuously improving my technical skills.
+I am a **Computer Science Engineering student** who is passionate about technology and software development.
 
-My goal is simple — to become a **complete software developer** who understands both the fundamentals of computer science and the practical side of building scalable applications.
+My goal is to become a **complete software developer** by strengthening both **core computer science knowledge** and **real-world development skills**.
 
-Currently, I am focused on:
-
-• Strengthening **Core Computer Science subjects**  
-• Building full stack applications using the **MERN Stack**  
-• Developing mobile applications using **Flutter**  
-• Improving problem solving skills through **Data Structures & Algorithms in Java**
-
-I enjoy turning ideas into working software and constantly learning new technologies that help me grow as a developer.
+Currently, I am in a **continuous learning phase**, where I focus on building projects, improving problem-solving skills, and understanding modern development technologies.
 
 ---
 
-## 🧠 Current Learning Focus
+# 🎯 Current Focus
 
-• Data Structures & Algorithms using **Java**  
-• **MERN Stack Development** (MongoDB, Express, React, Node)  
-• **Flutter Mobile App Development**  
-• Core subjects like **Operating Systems, DBMS, and Computer Networks**
+📚 Studying **Core Computer Science Subjects**
+
+💻 Learning **MERN Stack Development**
+
+📱 Building applications using **Flutter**
+
+🧠 Practicing **Data Structures & Algorithms using Java**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Technologies I’m Learning
 
 ### Programming Languages
 
-Java • JavaScript • Dart • Python
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,dart,python" />
+</p>
 
-### Frontend Development
+### Web Development
 
-HTML • CSS • React.js • Tailwind CSS
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+</p>
 
-### Backend Development
+### Databases
 
-Node.js • Express.js • REST API Development
-
-### Database
-
-MongoDB • MySQL
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
 ### Mobile Development
 
-Flutter (Dart)
+<p>
+<img src="https://skillicons.dev/icons?i=flutter" />
+</p>
 
 ### Tools
 
-Git • GitHub • Postman • VS Code • AWS Basics
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+# 📌 Projects
 
-### 🎯 Eshwar EventSphere
+## 🎯 Eshwar EventSphere
 
-Official Event Management Portal developed for Sri Eshwar College of Engineering.
+A developing **event management portal** designed to organize and manage college events efficiently.
 
-Features:
+Key Concepts Practiced
 
-• Event creation and management  
+• Event creation system  
 • Role-based access control  
-• Event approval workflows  
-• Real-time event notifications  
+• Event approval workflow  
+• Backend API integration  
 
-Tech Stack: MERN Stack + Socket.io
-
----
-
-### 🏫 School Management ERP
-
-A backend-driven system designed to automate request workflows between students, staff, and administrators.
-
-Features:
-
-• Request submission and approval system  
-• Role-based dashboards  
-• Optimized API architecture  
-
-Tech Stack: MERN Stack
+Tech Stack  
+**MERN Stack**
 
 ---
 
-### 💡 Createathon Platform
+## 🏫 School ERP System
 
-A platform designed for managing innovation events and student participation activities inside the college ecosystem.
+A backend-focused project developed during internship to manage workflows between students, staff, and administration.
+
+Concepts Practiced
+
+• Backend API development  
+• Database structuring  
+• Request workflow management  
+
+Tech Stack  
+**MERN Stack**
 
 ---
 
-## 📊 Coding Profiles
+## 💡 Createathon Platform
 
-LeetCode  
-Max Rating: **1458**
-
-SkillRack  
-Active coding practice and competitive programming.
+A project concept developed for managing innovation events and student participation within the college ecosystem.
 
 ---
 
-## 📈 GitHub Stats
+# 📊 Coding Practice
+
+**LeetCode**
+
+Max Rating: **1458**  
+Problems Solved: **160+**
+
+I regularly practice coding problems to strengthen my **problem-solving ability and algorithmic thinking**.
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saikriz898&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=saikriz898&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saikriz898&theme=tokyonight" />
+
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 📊 Contribution Graph
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=saikriz898&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saikriz898&theme=tokyo-night" />
 </p>
 
 ---
 
-## 📊 Contribution Graph
+# 🌱 Currently Learning
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saikriz898&theme=tokyo-night"/>
-</p>
-
----
-
-## 🌱 What Drives Me
-
-I believe software development is a continuous learning journey. Every project I build and every problem I solve helps me move one step closer to becoming a better developer.
-
-My aim is to contribute to impactful projects and grow into a developer who can build reliable, scalable, and meaningful software solutions.
+• Data Structures & Algorithms  
+• Backend Development  
+• Full Stack Architecture  
+• Mobile Application Development
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect
 
 GitHub  
 https://github.com/saikriz898
 
 ---
 
-⭐ Thank you for visiting my profile.
+<p align="center">
+Thanks for visiting my profile.
+</p>
