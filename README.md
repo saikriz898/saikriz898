@@ -1,8 +1,8 @@
-<!-- SAI KRISHNAN S | KRIZVERSE | Cinematic black & gold profile -->
+<!-- KRIZVERSE / AI ARTWORK EDITION — original neural-orbit artwork, black and gold -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/saikriz898/KRIZVERSE/main/assets/krizverse-title-card.svg" width="100%" alt="Sai Krishnan cinematic black and gold title card" />
+<img src="https://raw.githubusercontent.com/saikriz898/saikriz898/main/assets/krizverse-ai-artwork.svg" width="100%" alt="Original KRIZVERSE AI-inspired neural-orbit artwork" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=850&color=D4B56A&center=true&vCenter=true&width=760&lines=FULL-STACK+DEVELOPER+IN+THE+MAKING;BUILDING+AI-POWERED+PRODUCTS;EXPLORING+AGENTS+%26+AUTOMATION;LEARNING+DSA+%26+SYSTEM+DESIGN" alt="Animated developer focus" />
 
@@ -11,15 +11,16 @@
 
 <br/><br/>
 
-**COMPUTER SCIENCE STUDENT · FULL-STACK BUILDER · AI PRODUCT EXPLORER**
+**HUMAN CURIOSITY × MACHINE INTELLIGENCE**  
+*Computer Science student · Full-stack builder · AI product explorer*
 
-*Engineering ideas into intelligent products — one commit at a time.*
+*A personal universe where software, design, and artificial intelligence meet.*
 
 </div>
 
 ---
 
-## 01 / THE PERSON BEHIND THE CODE
+## ◇ 01 — THE HUMAN BEHIND THE SYSTEM
 
 I'm **Sai Krishnan S**, a Computer Science and Engineering student at **Sri Eshwar College of Engineering**, Coimbatore, India (2024–2028).
 
@@ -34,7 +35,7 @@ I'm interested in the intersection of **software engineering, product design, an
 
 ---
 
-## 02 / SELECTED BUILDS
+## ◇ 02 — WORLDS I'M BUILDING
 
 ### ◈ EventSphere — College Event Management Portal
 A college event portal exploring event workflows, role-based access, approval steps, and backend integration.
@@ -87,7 +88,7 @@ A mental wellness platform concept involving journaling, mood tracking, insights
 
 ---
 
-## 03 / TECHNOLOGY TOOLKIT
+## ◇ 03 — THE MATERIALS
 
 **Languages**  
 Java · Python · JavaScript · TypeScript · C · C++ · Dart · SQL
@@ -112,7 +113,7 @@ Git · GitHub · Linux · Docker · AWS · Vercel
 
 ---
 
-## 04 / GITHUB ACTIVITY
+## ◇ 04 — SIGNALS FROM THE WORKSHOP
 
 <div align="center">
 
@@ -127,7 +128,7 @@ Git · GitHub · Linux · Docker · AWS · Vercel
 
 ---
 
-## 05 / CURRENTLY FOCUSED ON
+## ◇ 05 — WHAT'S EVOLVING
 
 - Practising **DSA and problem-solving** consistently.
 - Strengthening **system design, APIs, databases, and software architecture**.
@@ -138,10 +139,10 @@ Git · GitHub · Linux · Docker · AWS · Vercel
 
 <div align="center">
 
-**Curiosity → Architecture → Code → Testing → Iteration**
+**IDEATE  /  BUILD  /  TEST  /  EVOLVE**
 
 *Thanks for stopping by. Explore the repositories, and follow along as I build.*
 
-<img src="https://raw.githubusercontent.com/saikriz898/KRIZVERSE/main/assets/krizverse-title-card.svg" width="100%" alt="Sai Krishnan black and gold signature card" />
+<img src="https://raw.githubusercontent.com/saikriz898/saikriz898/main/assets/krizverse-ai-artwork.svg" width="100%" alt="KRIZVERSE AI-inspired artwork signature" />
 
 </div>
